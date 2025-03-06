@@ -1,4 +1,4 @@
-# Weather-data-analysis
+# Real-time Weather-data-analysis
 
 ## Project Overview
 This project applies **K-Means Clustering** and **Regression Analysis** on weather data collected from OpenWeatherMap for **17 Canadian cities**. The goal is to identify distinct weather patterns through clustering and predict temperature using regression.
